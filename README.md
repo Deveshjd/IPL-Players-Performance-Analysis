@@ -85,7 +85,7 @@ Source: Kaggle IPL Dataset
 
 ## 📌 Notebook on Kaggle
 You can also view and run the notebook directly on Kaggle:  
-👉 [IPL Players Performance Notebook](https://www.kaggle.com/code/deveshjangid01/ipl-players-performance)
+👉 [IPL Players Performance Notebook]([https://www.kaggle.com/code/deveshjangid01/ipl-players-performance](https://www.kaggle.com/code/deveshjangid01/ipl-players-performance))
 
 ---
 
